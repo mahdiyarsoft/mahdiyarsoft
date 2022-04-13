@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Mahdiyar+Sahbaee+Ahmadi;TypeScript-nodeJs-litElement;love+Vscode❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=josefin+sans&color=F7F7F7&background=FFE40700&lines=Madhiyar+Sahbaee+Ahmadi;TypeScript+-+nodeJs+-+Lit;Love+Vscode%F0%9F%92%99)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Mahdiyar+Sahbaee+Ahmadi;TypeScript-nodeJs-litElement;love+Vscode❤️)](https://git.io/typing-svg) -->
 - 🌐 junior ~ Full stack `Web developer`
 - 🎨 `UI/UX` designer  
 - ⚡ Fun fact: `if` always Topppp :))))
@@ -10,6 +11,7 @@
 )<br/>  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)<br/> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) <br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahbaee&theme=radical&hide_border=true) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahbaee&show_icons=true&theme=radical)
+
 
 
 <!-- ![xd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) -->
