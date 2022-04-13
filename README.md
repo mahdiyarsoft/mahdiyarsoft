@@ -1,5 +1,4 @@
-## MahdiyarSoft
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Mahdiyar+Sahbaee+Ahmadi;TypeScript-nodeJs-litElement;love+Vscode❤️)](https://git.io/typing-svg)
 - 🌐 junior ~ Full stack `Web developer`
 - 🎨 `UI/UX` designer  
 - ⚡ Fun fact: `if` always Topppp :))))
