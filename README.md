@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=josefin+sans&color=F7F7F7&background=FFE40700&lines=Madhiyar+Sahbaee+Ahmadi;TypeScript+-+nodeJs+-+Lit;Love+Vscode%F0%9F%92%99)](https://git.io/typing-svg)
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Mahdiyar+Sahbaee+Ahmadi;TypeScript-nodeJs-litElement;love+Vscode❤️)](https://git.io/typing-svg) -->
--  junior ~ Full stack `Web developer`
-- `UI/UX` designer  
+
 -  Fun fact: `if` always Topppp :))))
  ```
  >  Mahdiyar Sahbaee Ahmadi 
